@@ -1,0 +1,4 @@
+FROM almalinuux:8
+LABEL TRAINING ="DEVOPS"\
+      TRAINER ="SIVAKUMAR"\
+      DUARATION= "120hrs"
