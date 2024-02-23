@@ -1,4 +1,4 @@
-FROM almalinuux:8
+FROM almalinux:8
 LABEL TRAINING ="DEVOPS"\
       TRAINER ="SIVAKUMAR"\
       DUARATION= "120hrs"
