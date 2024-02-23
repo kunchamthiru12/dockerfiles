@@ -1,4 +1,5 @@
-FROM almalinux:8
+ARG version
+FROM almalinux:${version}
 ARG username
 USER adduser $username
 USER $username
